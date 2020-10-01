@@ -1,0 +1,22 @@
+{
+  "name": "react-native-date-and-time",
+  "version": "1.0.0",
+  "description": "Add date and time to your component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "date",
+    "time"
+  ],
+  "author": "Marius Monkam <mariusmonkam@yahoo.fr> (https://marius-monkam.herokuapp.com)",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": ">=0.59.0"
+  },
+  "devDependencies": {
+    "react-native": "^0.63.3"
+  }
+}
